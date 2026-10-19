@@ -15,3 +15,5 @@ venv/
 .vscode/
 .DS_Store
 Thumbs.db
+
+data/clinical_study_raw_backup.xlsx
